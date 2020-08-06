@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "private": true,
   "description": "",
-  "main": "integration.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node integration.js"
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
