@@ -1,0 +1,16 @@
+{
+  "name": "integration",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "integration.js",
+  "scripts": {
+    "start": "node integration.js"
+  },
+  "repository": {
+
+  },
+  "author": "Integration",
+  "license": "ISC"
+  
+}
