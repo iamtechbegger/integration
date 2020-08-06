@@ -1,16 +1,17 @@
 {
   "name": "integration",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
   "private": true,
+  "description": "",
   "main": "integration.js",
   "scripts": {
     "start": "node integration.js"
   },
-  "repository": {
-
-  },
-  "author": "Integration",
-  "license": "ISC"
-  
-}
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+   
+    
+    "express": "^4.17.1"
+  }
+ 
